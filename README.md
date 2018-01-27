@@ -9,3 +9,5 @@
 * Reproducible Research
 * Statistical Inference
 * Regression Models
+
+I LIKE GIT, BECAUSE I AM A GIT
